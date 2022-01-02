@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @munotsehaj
-- 👀 I’m interested in web development, back-end programming, data science, machine learning, and theoretical computer science.
+- 👀 I’m interested in web development, back-end programming, data science, and machine learning.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, JS Frameworks, PHP, SQL, and Git (Version Control).
 
 <!---
